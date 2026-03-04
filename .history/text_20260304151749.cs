@@ -6,7 +6,6 @@ using System.Numerics;
 static void Main(string[] args)
 {
     List<string> listName = new List<string>()
-    listName.Add("江晚");
     listName.Add("李白");
     listName.Add("小白");
     foreach (var item in listName)
