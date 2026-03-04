@@ -7,10 +7,10 @@ static void Main(string[] args)
 {
     List<string> listName = new List<string>()
     listName.Add("李白");
-    foreach (var item in listName)
-    {
-        Console.WriteLine(item);
-    }    
+foreach (var item in listName)
+{
+    Console.WriteLine(item);
+}    
 }
 
         
