@@ -1,0 +1,14 @@
+E:\vs2\obj\Debug\net8.0\vs2.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs2\obj\Debug\net8.0\vs2.AssemblyInfoInputs.cache
+E:\vs2\obj\Debug\net8.0\vs2.AssemblyInfo.cs
+E:\vs2\obj\Debug\net8.0\vs2.csproj.CoreCompileInputs.cache
+E:\vs2\bin\Debug\net8.0\vs2.exe
+E:\vs2\bin\Debug\net8.0\vs2.deps.json
+E:\vs2\bin\Debug\net8.0\vs2.runtimeconfig.json
+E:\vs2\bin\Debug\net8.0\vs2.dll
+E:\vs2\bin\Debug\net8.0\vs2.pdb
+E:\vs2\obj\Debug\net8.0\vs2.dll
+E:\vs2\obj\Debug\net8.0\refint\vs2.dll
+E:\vs2\obj\Debug\net8.0\vs2.pdb
+E:\vs2\obj\Debug\net8.0\vs2.genruntimeconfig.cache
+E:\vs2\obj\Debug\net8.0\ref\vs2.dll
